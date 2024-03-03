@@ -23,4 +23,4 @@ const options = {
   },
 };
 
-flatpickr("#datetime-pciker", options);
+flatpickr("#datetime-picker", options);
